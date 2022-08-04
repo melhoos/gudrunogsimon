@@ -19,7 +19,7 @@ jobs:
           npm ci
           npm run build
       - name: Deploy
-        uses: gudrunogsimon/github-pages-deploy-action@v4
+        uses: melhoos/gudrunogsimon@v4
         with:
           folder: build
           branch: gp-pages
