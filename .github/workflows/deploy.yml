@@ -14,12 +14,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.18.4'
-      - name: Install
+      - name: Install and Deploy
         run: |
           npm install
           npm run build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: build
-          branch: gp-pages
+          npm run deploy
