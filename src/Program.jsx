@@ -8,6 +8,8 @@ const Program = () => {
       </h1>
       <p>
         Program kommer snart!
+    
+     (Husk link til kirken og huset. Er ikke adresser på det på maps)
       </p>
     </div>
   );
