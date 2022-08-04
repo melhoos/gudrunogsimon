@@ -19,7 +19,7 @@ const Travel = () => {
             Rutebåt + buss
           </h3>
           <p>
-            Det går hurtigbåt fra Trondheim Hurtigbåtterminal og til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Kjøp billett for hele veien hos mannskapet ombord på båten.
+            Det går hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Du kan kjøpe billett for hele ruten gjennom Atb-appen eller hos mannskapet ombord på båten.
           </p>
           <h3>
             Direktebuss
