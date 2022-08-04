@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <div>Made by MM</div>
+      <div>Made by MM & EK</div>
     </footer>
   );
 };
