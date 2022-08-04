@@ -16,7 +16,6 @@ jobs:
           node-version: '12.18.4'
       - name: Install
         run: |
-          npm ci
           npm run build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
