@@ -19,7 +19,7 @@ jobs:
           npm ci
           npm run build
       - name: Deploy
-        uses: melhoos/gudrunogsimon@v4
+        uses: melhoos/gudrunogsimon@v0
         with:
           folder: build
           branch: gp-pages
