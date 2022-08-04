@@ -14,8 +14,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.18.4'
-      - name: Install and Deploy
+      - name: Install
         run: |
           npm install
           npm run build
-          npm run deploy
+      - name: Deploy 
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build
