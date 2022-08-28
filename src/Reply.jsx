@@ -4,7 +4,7 @@ const Reply = () => {
   return (
     <div id="Reply">
       <h1>
-        Svar her
+        RSVP
       </h1>
       <p>
         Kommer snart!
