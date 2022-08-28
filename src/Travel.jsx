@@ -25,7 +25,7 @@ const Travel = () => {
             Direktebuss
           </h3>
           <p>
-            Ta buss 420 mot Frøya via Orkanger og Hitra fra Trondheim Sentralstasjon. Turen tar drøye 2,5 timer. Du finner reiseplanlegger på Atb.no, ev. rutetider 
+            Ta buss 420 mot Frøya via Orkanger og Hitra fra Trondheim Sentralstasjon. Turen tar drøye 2,5 timer. Du finner reiseplanlegger på Atb.no, ev. rutetider {' '}
             <a
               href="https://www.atb.no/getfile.php/1396300-1653459129/Rutetabeller/22_region_sommer/AtB_Linje420.pdf"
               target="_blank"
