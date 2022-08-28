@@ -19,7 +19,7 @@ const Information = () => {
             <Lottie id={'mail'} icon={envelope} sizeInPx={60} /> 
           </h2>
           <p>
-            Svar innen XX om du/dere kommer. Gi oss gjerne beskjed om du/dere har spesielle behov (matallergier ol.)
+            Svar innen 1. mai 2023 om du/dere kommer via svarskjema.
           </p>
         </div>
         <div>
