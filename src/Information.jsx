@@ -13,15 +13,7 @@ const Information = () => {
         Praktisk informasjon
       </h1>
       <div className="bullets">
-        <div>
-          <h2>
-            RSVP
-            <Lottie id={'mail'} icon={envelope} sizeInPx={60} /> 
-          </h2>
-          <p>
-            Svar innen 1. mai 2023 om du/dere kommer via svarskjema.
-          </p>
-        </div>
+        
         <div>
           <h2>
             Kleskode
