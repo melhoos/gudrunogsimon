@@ -1,11 +1,11 @@
 {
   "main.css": "/gudrunogsimon/static/css/main.6954dbb1.chunk.css",
-  "main.js": "/gudrunogsimon/static/js/main.50f21f61.chunk.js",
-  "main.js.map": "/gudrunogsimon/static/js/main.50f21f61.chunk.js.map",
+  "main.js": "/gudrunogsimon/static/js/main.ea37f9ef.chunk.js",
+  "main.js.map": "/gudrunogsimon/static/js/main.ea37f9ef.chunk.js.map",
   "static/js/1.8c98aab8.chunk.js": "/gudrunogsimon/static/js/1.8c98aab8.chunk.js",
   "static/js/1.8c98aab8.chunk.js.map": "/gudrunogsimon/static/js/1.8c98aab8.chunk.js.map",
-  "static/js/2.a11d0cd4.chunk.js": "/gudrunogsimon/static/js/2.a11d0cd4.chunk.js",
-  "static/js/2.a11d0cd4.chunk.js.map": "/gudrunogsimon/static/js/2.a11d0cd4.chunk.js.map",
+  "static/js/2.88ef08a0.chunk.js": "/gudrunogsimon/static/js/2.88ef08a0.chunk.js",
+  "static/js/2.88ef08a0.chunk.js.map": "/gudrunogsimon/static/js/2.88ef08a0.chunk.js.map",
   "runtime~main.js": "/gudrunogsimon/static/js/runtime~main.0e1899cc.js",
   "runtime~main.js.map": "/gudrunogsimon/static/js/runtime~main.0e1899cc.js.map",
   "static/media/heart.png": "/gudrunogsimon/static/media/heart.2a11a956.png",
@@ -15,6 +15,6 @@
   "static/media/App.css": "/gudrunogsimon/static/media/FiraMono-Regular.aa00c5d9.ttf",
   "static/css/main.6954dbb1.chunk.css.map": "/gudrunogsimon/static/css/main.6954dbb1.chunk.css.map",
   "index.html": "/gudrunogsimon/index.html",
-  "precache-manifest.2b800a03b64b9564791da13ad1d602dd.js": "/gudrunogsimon/precache-manifest.2b800a03b64b9564791da13ad1d602dd.js",
+  "precache-manifest.3a8186a60f976044c9537a55d0e63d11.js": "/gudrunogsimon/precache-manifest.3a8186a60f976044c9537a55d0e63d11.js",
   "service-worker.js": "/gudrunogsimon/service-worker.js"
 }

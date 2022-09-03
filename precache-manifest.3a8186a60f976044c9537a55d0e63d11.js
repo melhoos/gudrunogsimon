@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "50f21f61ba6a5f069b5c",
+    "revision": "ea37f9efd1cdef1d3fde",
     "url": "/gudrunogsimon/static/css/main.6954dbb1.chunk.css"
   },
   {
-    "revision": "50f21f61ba6a5f069b5c",
-    "url": "/gudrunogsimon/static/js/main.50f21f61.chunk.js"
+    "revision": "ea37f9efd1cdef1d3fde",
+    "url": "/gudrunogsimon/static/js/main.ea37f9ef.chunk.js"
   },
   {
     "revision": "8c98aab82769540efb62",
     "url": "/gudrunogsimon/static/js/1.8c98aab8.chunk.js"
   },
   {
-    "revision": "a11d0cd4e9a8b2ed7cc7",
-    "url": "/gudrunogsimon/static/js/2.a11d0cd4.chunk.js"
+    "revision": "88ef08a080d17c771343",
+    "url": "/gudrunogsimon/static/js/2.88ef08a0.chunk.js"
   },
   {
     "revision": "0e1899ccfa14068085ec",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/gudrunogsimon/static/media/FiraMono-Regular.aa00c5d9.ttf"
   },
   {
-    "revision": "d1a4de52e639f594690ade7276ddee72",
+    "revision": "44bc6b5fce4ed88f5a37a135953170e7",
     "url": "/gudrunogsimon/index.html"
   }
 ];
