@@ -20,7 +20,7 @@ const Information = () => {
             <Lottie id={'kimono'} icon={kimono} sizeInPx={60} />
           </h2>
           <p>
-            Været er variende i Nord-Norge, men vi håper selvfølgelig på sol og 20 grader, gjerne døgnet rundt. Kom sommerlig pent.
+            Vi krysser fingrene for sommer og sol, og håper dere vil pynte dere sammen med oss. Lange sommerkjoler og lyse dresser - kom sommerlig pent!
           </p>
         </div>
         <div>
