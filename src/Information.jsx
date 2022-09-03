@@ -29,10 +29,10 @@ const Information = () => {
             <Lottie id={'gift'} icon={gift} sizeInPx={60} />
           </h2>
           <p>
-            Vi forventer ingen bryllupsgave. Det viktigste for oss er at du vil være med å feire dagen.
+            Det viktigste for oss er at du vil være med å feire dagen.
           </p>
           <p>
-            Dersom du ikke er enig i det og allikevel ønsker å gi oss noe hadde vi blitt veldig glad for penger til bryllupsreise.
+            Om du ønsker å gi en bryllupsgave finner dere gaveliste her og her. 
           </p>
         </div>
         <div>
