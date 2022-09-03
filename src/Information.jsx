@@ -20,7 +20,7 @@ const Information = () => {
             <Lottie id={'kimono'} icon={kimono} sizeInPx={60} />
           </h2>
           <p>
-            Vi krysser fingrene for sommer og sol, og håper dere vil pynte dere sammen med oss. Lange sommerkjoler og lyse dresser - kom sommerlig pent!
+            Vi krysser fingrene for sommer og sol - kom sommerlig og pent kledd! 
           </p>
         </div>
         <div>
