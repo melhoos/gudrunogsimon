@@ -41,12 +41,12 @@ const Information = () => {
             <Lottie id={'suitcase'} icon={suitcase} sizeInPx={60} />
           </h2>
           <p>
-            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllupet lørdag, turklær til søndagsturen, badetøy for de modige, solkrem og solbriler.
+            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllupet lørdag, turklær til søndagsturen og badetøy for de modige.
           </p>
           <p>
             Sjekk {' '}
             <a
-              href="https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/11-48728/Norge/Nordland/Steigen/Helnessund"
+              href="https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/1-215074/Norge/Tr%C3%B8ndelag/Hitra/Fjellv%C3%A6rs%C3%B8ya"
               target="_blank"
               rel="noopener noreferrer"
             >
