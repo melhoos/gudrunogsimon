@@ -120,6 +120,21 @@ footer {
   align-items: center;
 }
 
+#Program .bullets {
+  display: flex;
+  justify-content: space-around;
+  column-gap: 5vw;
+}
+
+#Program .bullets h2, #Information .bullets p {
+  text-align: left;
+}
+
+#Program .bullets h2 {
+  display: flex;
+  align-items: center;
+}
+
 #Map {
   display: flex;
   justify-content: center;
