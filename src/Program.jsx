@@ -4,11 +4,16 @@ const Program = () => {
   return (
     <div id="Program">
     <p>
-    Velkommen til hjemmesiden for bryllupet vårt. 
+    Velkommen til hjemmesiden for bryllupet vårt!
     <br>
     </br>
-    Her finner du informasjon om hele helgen, reise og overnatting.
+    Her finner du programmet og informasjon om bryllupshelgen. 
+    <br>
+    </br>
     Svar utbes innen 01. mai 2023 via skjemaet dere finner under Svar her.
+    <br>
+    </br>
+    
     
     </p>
     <h1>
