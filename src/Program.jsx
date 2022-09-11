@@ -5,6 +5,8 @@ const Program = () => {
     <div id="Program">
     <p>
     Velkommen til hjemmesiden for bryllupet vårt. 
+    <br>
+    </br>
     Her finner du informasjon om hele helgen, reise og overnatting.
     Svar utbes innen 01. mai 2023 via skjemaet dere finner under Svar her.
     
