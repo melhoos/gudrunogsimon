@@ -20,7 +20,7 @@ const Information = () => {
             <Lottie id={'kimono'} icon={kimono} sizeInPx={60} />
           </h2>
           <p>
-            Vi krysser fingrene for sommer og sol - kom sommerlig og pent kledd! 
+            Vi krysser fingrene for sommer og sol - kom sommerlig og pent kledd!
           </p>
         </div>
         <div>
@@ -32,7 +32,7 @@ const Information = () => {
             Det viktigste for oss er at du vil være med å feire dagen.
           </p>
           <p>
-            Om du ønsker å gi en bryllupsgave finner dere gaveliste her og her. 
+            Om du ønsker å gi oss en bryllupsgave finner dere gaveliste her og her. 
           </p>
         </div>
         <div>
@@ -41,7 +41,7 @@ const Information = () => {
             <Lottie id={'suitcase'} icon={suitcase} sizeInPx={60} />
           </h2>
           <p>
-            Været nord for polarsirkelen kan være så mangt - Ta med joggesko/tursko og allværsjakke, så kommer du langt!
+            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllupet lørdag, turklær til søndagsturen, badetøy for de modige, solkrem og solbriler.
           </p>
           <p>
             Sjekk {' '}
