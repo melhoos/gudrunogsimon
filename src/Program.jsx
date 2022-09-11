@@ -2,7 +2,7 @@ import React from 'react';
 
 const Program = () => {
   return (
-    <div id="Program">
+    <div id="Information">
     <p>
       Velkommen til hjemmesiden for bryllupet vårt!
       <br>
