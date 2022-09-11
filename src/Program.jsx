@@ -6,8 +6,10 @@ const Program = () => {
     <p>
     Velkommen til hjemmesiden for bryllupet vårt. 
     <br> Her finner du informasjon om hele helgen, reise og overnatting. 
-    <br> Svar utbes innen 01. mai 2023 via skjemaet dere finner under Svar her.
-    <br>
+    </br>
+    <br> 
+    Svar utbes innen 01. mai 2023 via skjemaet dere finner under Svar her.
+    </br>
     </p>
     <h1>
         Program
