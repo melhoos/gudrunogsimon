@@ -7,13 +7,14 @@ const Program = () => {
     Velkommen til hjemmesiden for bryllupet vårt!
     <br>
     </br>
-    Her finner du programmet og informasjon om bryllupshelgen. 
+    Her finner du programmet og all informasjon om bryllupshelgen. 
     <br>
     </br>
-    Svar utbes innen 01. mai 2023 via skjemaet dere finner under Svar her.
-    <br>
-    </br>
+    Svar utbes innen 01. mai 2023 via skjemaet dere finner under <i> Svar her </i>.
+    </p>
+    <p>
     
+    - Gudrun & Simon -
     
     </p>
     <h1>
