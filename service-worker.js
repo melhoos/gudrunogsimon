@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "www.gudrunogsimon.no/precache-manifest.dd0dce1947643bce0ee9021fb5ba3bb1.js"
+  "www.melhoos.github.oi/precache-manifest.22f81122ba6cef5a61d933dac8c436a3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("www.gudrunogsimon.no/index.html", {
+workbox.routing.registerNavigationRoute("www.melhoos.github.oi/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
