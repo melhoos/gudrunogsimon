@@ -41,7 +41,7 @@ const Information = () => {
             <Lottie id={'suitcase'} icon={suitcase} sizeInPx={60} />
           </h2>
           <p>
-            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllupet lørdag, turklær til søndagsturen og badetøy for de modige.
+            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllup lørdag, turklær til søndagsturen og badetøy for de modige.
           </p>
           <p>
             Sjekk {' '}
