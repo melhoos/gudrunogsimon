@@ -1,6 +1,6 @@
 import React from 'react';
-import gudrunogsimon2 from './assets/images/gudrunogsimon2.jpg';
-import gudrunogsimon3 from './assets/images/gudrunogsimon3.jpg';
+//import gudrunogsimon2 from './assets/images/gudrunogsimon2.jpg';
+//import gudrunogsimon3 from './assets/images/gudrunogsimon3.jpg';
 
 
 const Travel = () => {
