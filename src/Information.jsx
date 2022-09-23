@@ -13,11 +13,10 @@ const Information = () => {
         Praktisk informasjon
       </h1>
       <div className="bullets">
-        
         <div>
           <h2>
-            Kleskode
             <Lottie id={'kimono'} icon={kimono} sizeInPx={60} />
+            Kleskode
           </h2>
           <p>
             Vi krysser fingrene for sommer og sol - kom sommerlig og pent kledd!
@@ -25,8 +24,8 @@ const Information = () => {
         </div>
         <div>
           <h2>
-            Gaver
             <Lottie id={'gift'} icon={gift} sizeInPx={60} />
+            Gaver
           </h2>
           <p>
             Det viktigste for oss er at du vil være med å feire dagen.
@@ -37,8 +36,8 @@ const Information = () => {
         </div>
         <div>
           <h2>
-            Pakkeliste
             <Lottie id={'suitcase'} icon={suitcase} sizeInPx={60} />
+            Pakkeliste
           </h2>
           <p>
             Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllup lørdag, turklær til søndagsturen og badetøy for de modige.

@@ -12,6 +12,19 @@
   color: #444;
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h1 {
+  font-size: 1.7em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
 main {
   padding: 0 4vw;
 }
@@ -45,24 +58,34 @@ footer {
   margin-top: auto;
 }
 
-#Menu {
-  padding-bottom: 4vh;
-  margin-top: 4vh;
-  border-bottom: 1px solid #444;
+#Menu, #Program .bullets, #Information .bullets {
+  display: flex;
+  justify-content: space-between;
+}
+
+#Program .bullets > div, #Information .bullets > div {
+  width: 30%;
 }
 
 #Program, #Travel, #Information, #Reply, #Contact {
-  border-bottom: 1px solid #444;
   padding-bottom: 4vh;
   margin-bottom: 4vh;
 }
 
-#Menu, #Menu div {
-  display: flex;
-  justify-content: space-around;
+#Program h2, #Travel h2, #Travel h3 {
+  text-align: left;
 }
 
-#Menu div label {
+#Menu, #Program, #Travel, #Information, #Reply, #Contact {
+  border-bottom: 1px solid #444;
+}
+
+#Menu {
+  padding-bottom: 4vh;
+  margin-top: 4vh;
+}
+
+#Menu div, #Information .bullets h2 {
   display: flex;
   align-items: center;
 }
@@ -87,52 +110,10 @@ footer {
   margin-top: 31vh;
   background-color: hsla(330, 4%, 89%, 0.85);;
   width: 92vw;
-  padding: 1vh 0;
 }
 
-#Travel .travel, #Travel .accommodation {
-  display: flex;
-  justify-content: space-around;
-  min-width: 80vw;
-}
-
-#Travel .description {
-  max-width: 45vw;
-  text-align: left;
-}
-
-#Travel img {
-  max-width: 35vw;
-}
-
-#Information .bullets {
-  display: flex;
-  justify-content: space-around;
-  column-gap: 5vw;
-}
-
-#Information .bullets h2, #Information .bullets p {
-  text-align: left;
-}
-
-#Information .bullets h2 {
-  display: flex;
-  align-items: center;
-}
-
-#Program .bullets {
-  display: flex;
-  justify-content: space-around;
-  column-gap: 5vw;
-}
-
-#Program .bullets h2, #Information .bullets p {
-  text-align: left;
-}
-
-#Program .bullets h2 {
-  display: flex;
-  align-items: center;
+#Intro p {
+  text-align: center;
 }
 
 #Map {
@@ -147,25 +128,13 @@ footer {
   height: 400px;
 }
 
-@media only screen and (max-width: 600px) {
-  
-  #Menu {
-    display: block;
-  }
-  #Menu div {
-    justify-content: center;
+@media only screen and (max-width: 750px) {
+  #Menu, #Program .bullets, #Information .bullets {
+    flex-direction: column;
+    align-items: center;
   }
 
-  #Information .bullets {
-    flex-flow: wrap;
-  }
-
-  #Travel img {
-    display: none;
-  }
-
-  #Travel .description {
-    max-width: 80vw;
+  #Program .bullets > div, #Information .bullets > div {
+    width: 100%;
   }
 }
-

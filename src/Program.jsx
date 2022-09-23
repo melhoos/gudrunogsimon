@@ -3,29 +3,16 @@ import React from 'react';
 const Program = () => {
   return (
     <div id="Program">
-    <p>
-      Velkommen til hjemmesiden for bryllupet vårt!
-      <br>
-      </br>
-      Her finner du programmet og all informasjon om bryllupshelgen. 
-      <br>
-      </br>
-      Svar utbes innen 01. mai 2023 via skjemaet dere finner under <i> Svar her</i>.
-      </p>
-      <p> 
-      - Gudrun & Simon -
-     </p>
-    
-    <h1>
-      Program
-    </h1>
+      <h1>
+        Program
+      </h1>
       <div className="bullets">
         <div>
           <h2>
             Fredag
           </h2>
           <p>
-            Fredagtekst 
+            Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst
           </p>
         </div>
         <div>
@@ -33,19 +20,19 @@ const Program = () => {
             Lørdag
           </h2>
           <p>
-            lørdagstekst
+            Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst
           </p>
         </div>
         <div>
           <h2>
-            SØndag
+            Søndag
           </h2>
           <p>
-            søndagstekst
+            Søndagstekst Søndagstekst Søndagstekst Søndagstekst Søndagstekst Søndagstekst Søndagstekst
           </p>
         </div>
       </div>
-    </div>
+    </div>    
   );
 };
 

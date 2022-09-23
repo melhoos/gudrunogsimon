@@ -10,6 +10,7 @@ import Information from './Information';
 import Reply from './Reply';
 import Contact from './Contact';
 import Map from './Map';
+import Intro from './Intro';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <main>
         <Menu/>
         <HeadPicture/>
+        <Intro/>
         <Program/>
         <Travel/>
         <Information/>

@@ -41,18 +41,18 @@ const Travel = () => {
           </h3>
           <p> Kommer informasjon her</p>
         </span>
-        <img
+        {/* <img
           className="gudrunogsimon2"
           src={gudrunogsimon2}
           alt="Gudrun og Simon"
-        />
+        /> */}
       </div>
       <div className="accommodation">
-        <img
+        {/* <img
           className="gudrunogsimon3"
           src={gudrunogsimon3}
           alt="Gudrun og Simon"
-        />
+        /> */}
         <span className="description">
           <h2>Overnatting</h2>
           <p> Kommer informasjon her </p>
