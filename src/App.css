@@ -39,8 +39,11 @@ img {
 header,
 footer {
   display: flex;
+  display: -webkit-flex;
   justify-content: center;
+  -webkit-justify-content: center;
   align-items: center;
+  -webkit-align-items: center;
   color: #444;
   padding: 20px 10px;
   background-color: #e5e3e4;
@@ -49,7 +52,9 @@ footer {
 
 header img {
   display: flex;
+  display: -webkit-flex;
   justify-content: center;
+  -webkit-justify-content: center;
   width: 20px;
   transform: translateX(-1px);
 }
@@ -60,7 +65,9 @@ footer {
 
 #Menu, #Program .bullets, #Information .bullets {
   display: flex;
+  display: -webkit-flex;
   justify-content: space-between;
+  -webkit-justify-content: space-between;
 }
 
 #Program .bullets > div, #Information .bullets > div {
@@ -87,7 +94,9 @@ footer {
 
 #Menu div, #Information .bullets h2 {
   display: flex;
+  display: -webkit-flex;
   align-items: center;
+  -webkit-align-items: center;
 }
 
 #Menu div[id$="-parent"]:hover, label:hover {
@@ -96,7 +105,9 @@ footer {
 
 #HeadPicture {
   display: flex;
+  display: -webkit-flex;
   justify-content: center;
+  -webkit-justify-content: center;
   padding: 4vh 0;
 }
 
@@ -118,7 +129,9 @@ footer {
 
 #Map {
   display: flex;
+  display: -webkit-flex;
   justify-content: center;
+  -webkit-justify-content: center;
   margin-bottom: 4vh;
 }
 
@@ -132,6 +145,7 @@ footer {
   #Menu, #Program .bullets, #Information .bullets {
     flex-direction: column;
     align-items: center;
+    -webkit-align-items: center;
   }
 
   #Program .bullets > div, #Information .bullets > div {
