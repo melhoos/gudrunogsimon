@@ -12,7 +12,9 @@ const Program = () => {
             Fredag
           </h2>
           <p>
-            Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst Fredagtekst
+            ca. 18 - Middag i Knarrlagsundet på Knarren Brygge
+          <br/>
+            ca. 20 - Vi trekker bort til Bjørg og Bikko for bingo og hygge
           </p>
         </div>
         <div>
@@ -20,7 +22,9 @@ const Program = () => {
             Lørdag
           </h2>
           <p>
-            Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst Lørdagstekst
+            Formiddag - Vielse i Norbotn Kirke på Fjellværøya
+            <br/>
+            Ettermiddag - Bryllupsfest på Strandheim på Fjellværøya
           </p>
         </div>
         <div>
