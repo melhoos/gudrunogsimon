@@ -16,10 +16,14 @@ const Information = () => {
         <div>
           <h2>
             <Lottie id={'kimono'} icon={kimono} sizeInPx={60} />
-            Kleskode
+            Antrekk
           </h2>
           <p>
-            Vi krysser fingrene for sommer og sol - kom sommerlig og pent kledd!
+            Vi krysser fingrene for sommer og sol!
+            <br/>
+            Fredag: Casual pent
+            <br/>
+            Lørdag: Dress/sommerlig pent
           </p>
         </div>
         <div>
