@@ -52,8 +52,7 @@ const Information = () => {
             Turklær til søndagsturen 
             </br>
             Badetøy for de modige
-            </br>
-          </p>
+            </p>
           <p>
             Sjekk {' '}
             <a
