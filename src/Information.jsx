@@ -45,7 +45,13 @@ const Information = () => {
             Pakkeliste
           </h2>
           <p>
-            Ta med varme klær til kveldene, casual pent antrekk til fredag, antrekk til bryllup lørdag, turklær til søndagsturen og badetøy for de modige.
+            Antrekk til fredag og lørdag
+            </br>
+            Varme klær til å kunne være ute på kveldene
+            </br>
+            Turklær til søndagsturen 
+            </br>
+            Badetøy for de modige
           </p>
           <p>
             Sjekk {' '}
