@@ -9,17 +9,17 @@ const Program = () => {
       <div className="bullets">
         <div>
           <h2>
-            Fredag
+            Fredag - Knarrlagsundet
           </h2>
           <p>
-            ca. 18 - Middag i Knarrlagsundet på Knarren Brygge
+            ca. 18 - Middag på Knarren Brygge
           <br/>
-            ca. 20 - Vi trekker bort til Bjørg og Bikko for bingo og hygge
+            ca. 20 - Vi trekker bort til Bjørg og Bikko for bingo, lek og hygge
           </p>
         </div>
         <div>
           <h2>
-            Lørdag
+            Lørdag - Fjellværøya
           </h2>
           <p>
             Formiddagen - Vielse i Norbotn Kirke på Fjellværøya
@@ -29,7 +29,7 @@ const Program = () => {
         </div>
         <div>
           <h2>
-            Søndag
+            Søndag - Knarrlagsundet
           </h2>
           <p>
             Formiddagen - Vi samles i Knarrlagsundet hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
