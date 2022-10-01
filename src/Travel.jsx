@@ -91,16 +91,28 @@ const Travel = () => {
           </p>
            <h3>Knarren Brygge i Knarrlagsundet</h3>
           <p>
-             knarren.no
-           </p>
+             <a
+              href="https://www.knarren.no"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            knarren.no
+            </a>
+            </p>
            <p>
             2-/3-/4-sengs rom:  790/890/1490 kr per natt <br/>
             Ta kontakt med Simon på simbrafje@gmail.com for informasjon hvis du ønsker å booke.
           </p>
           <h3>Fjellvær Gjestegård på Fjellværøya</h3>
           <p>
+             <a
+              href="https://www.fjellvar.no"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
             fjellvar.no
-          </p>
+            </a>
+            </p>
            <p>
             En hytte med 8 (12) sengeplasser  - 2800 kr per natt <br/>
             En hytte med 3 sengeplasser - 1000 kr per natt <br/>
