@@ -7,33 +7,33 @@ const Travel = () => {
   return (
     <div id="Travel">
       <h1>
-        Reise og overnatting
+        Reise
       </h1>
       <div className="travel">
         <span className="description">
-          <h2>Til Fjellværøya</h2>
+         
           <p>
-            Første steg er å komme seg til Trondheim. Fra Trondheim kommer du deg til Fjellværøya på tre måter: Rutebåt + buss, direktebuss eller med bil.
+            Man kommer seg til Hitra med bil, båt eller buss. Skal man bruke kollektivt er det praktisk å først komme seg til Trondheim.
           </p>
           <h3>
-            Rutebåt + buss
+            Hurtigbåt
           </h3>
           <p>
-            Det går hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Se AtB.no for rutetider, og turen tar mellom 2 og 2,5 timer avhengig av rute. Om du skal lenger enn Fillan kan det være det går rutebuss vidre, men det lureste er å høre med noen med bil som kan plukke deg opp.
+            Det går hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon (se atb.no for rutetider). Turen tar 2 til 2,5 time, avhengig av rute. Det er mulig å komme seg videre til Fjellværøya/Ulvøya med buss, men det lureste er å høre med noen med bil som kan plukke deg opp.
           </p>
           <h3>
             Direktebuss
           </h3>
           <p>
-            Ta buss 420 mot Frøya via Orkanger og Hitra fra Trondheim Sentralstasjon. Turen tar drøye 2,5 timer. Du finner reiseplanlegger på Atb.no, ev. rutetider {' '}
+            Ta buss 420 mot Frøya via Orkanger og Hitra fra Trondheim Sentralstasjon. Turen tar drøye 2,5 time. Se {' '}
             <a
-              href="https://www.atb.no/getfile.php/1396300-1653459129/Rutetabeller/22_region_sommer/AtB_Linje420.pdf"
+              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR1=1&tplang=no&from=Trondheim%20Sentralstasjon%20(Trondheim)&to=Fillan%20busstasjon%20(Hitra)&Time=14%3A40&Date=03.10.2022&changepause=0&changepenalty=1"
               target="_blank"
               rel="noopener noreferrer"
             >
-            her
+            atb.no
             </a>
-            .  
+            for rutetider.
           </p>
   
           <h3>
