@@ -34,7 +34,7 @@ const Program = () => {
           <p>
             Formiddagen - Vi samles i Knarrlagsundet hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
             <a
-              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR4=1&tplang=no&from=Trondheim%20Hurtigb%C3%A5tterminal%20(Trondheim)&to=Sandstad%20vegstasjon%20(Hitra)&Time=14%3A40&Date=03.10.2022&changepause=0&changepenalty=1"
+              href="https://ut.no/turforslag/118119/ulvystien-rundt-pa-ulvyafjellvrsya-pa-hitra"
               target="_blank"
               rel="noopener noreferrer"
             >
