@@ -46,14 +46,13 @@ const Information = () => {
           </h2>
           <p>
             Antrekk til fredag og lørdag
-            </br>
+            <br/>
             Varme klær til å kunne være ute på kveldene
-            </br>
+            <br/>
             Turklær til søndagsturen 
-            </br>
+            <br/>
             Badetøy for de modige
             </p>
-</p>
           <p>
             Sjekk {' '}
             <a
