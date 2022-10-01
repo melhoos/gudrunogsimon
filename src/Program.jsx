@@ -22,9 +22,9 @@ const Program = () => {
             Lørdag - Fjellværøya
           </h2>
           <p>
-            Formiddagen - Vielse i Norbotn Kirke på Fjellværøya
+            Formiddag - Vielse i Norbotn Kirke på Fjellværøya
             <br/>
-            Ettermiddagen - Bryllupsfest på Strandheim på Fjellværøya
+            Ettermiddag - Bryllupsfest på Strandheim på Fjellværøya
           </p>
         </div>
         <div>
@@ -32,7 +32,7 @@ const Program = () => {
             Søndag - Knarrlagsundet
           </h2>
           <p>
-            Formiddagen - Vi samles i Knarrlagsundet hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
+            Formiddag - Vi samles i Knarrlagsundet hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
             <a
               href="https://ut.no/turforslag/118119/ulvystien-rundt-pa-ulvyafjellvrsya-pa-hitra"
               target="_blank"
