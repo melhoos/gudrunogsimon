@@ -41,7 +41,6 @@ const Program = () => {
             >
             her
             </a>
-            .
           </p>
           <p>
                 Etter turen blir det kaffe og kaker hos Bjørg og Bikko
