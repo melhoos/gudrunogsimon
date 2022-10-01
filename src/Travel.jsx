@@ -62,7 +62,7 @@ const Travel = () => {
           alt="Gudrun og Simon"
         /> */}
         <span className="description">
-          <h2>Overnatting</h2>
+          <h1>Overnatting</h1>
           <p> Kommer informasjon her </p>
         </span>
       </div>
