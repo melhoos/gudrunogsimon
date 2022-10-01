@@ -23,7 +23,7 @@ const Program = () => {
             Lørdag - Fjellværøya
           </h2>
           <p>
-            Formiddag - Vielse i Norbotn Kirke
+            Formiddag - Vielse i Nordbotn Kirke
             <br/>
             Ettermiddag - Bryllupsfest på Strandheim
           </p>
