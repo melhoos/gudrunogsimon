@@ -64,34 +64,38 @@ const Travel = () => {
         <span className="description">
           <h1>Overnatting</h1>
           <p> 
-          Vi har reservert rom ved følgende overnattingssteder i Øyriket
+          Vi har reservert rom ved følgende overnattingssteder i Øyriket: 
           <br/>
-            Hjorten Hotell - 20/15 min med bil til Fjellværøya/Knarrlagsund.
+            - Hjorten Hotell - 20/15 min med bil til Fjellværøya/Knarrlagsund.
           <br/>
-            Knarren Brygge - 10 min med bil til Fjellværøya.
+            - Knarren Brygge - 10 min med bil til Fjellværøya.
           <br/>
-            Fjellvær Gjestegård - 5/12 min med bil til kirken/Knarrlagsund.
-            </p>
+            - Fjellvær Gjestegård - 5/12 min med bil til kirken/Knarrlagsund.
+           </p>
            <p>
               Gudrun og Simon bor på Hjorten Hotell. 
           </p>
           <h2>Hjorten Hotell i Fillan</h2>
           <p>
              hjortenhotell.no
-             <br/>
+            </p>
+           <p>
             Enkel- /dobbeltrom 1395/1595 kr per natt. <br/>
             For de som ønsker å booke hotellrom gjøres det ved å sende epost til post@hjortenhotell.no. Merk bestillingen med “Bryllup Gudrun og Simon Fjeldvær”. Det er mulig å sette inn en ekstraseng på alle rom. 
           </p>
            <h2>Knarren Brygge i Knarrlagsundet</h2>
           <p>
              knarren.no
-             <br/>
+           </p>
+           <p>
             2-/3-/4-sengs rom:  790/890/1490 kr per natt <br/>
             Ta kontakt med Simon på simbrafje@gmail.com for informasjon hvis du ønsker å booke.
           </p>
           <h2>Fjellvær Gjestegård på Fjellværøya</h2>
           <p>
-            fjellvar.no <br/>
+            fjellvar.no
+          </p>
+           <p>
             En hytte med 8 (12) sengeplasser  - 2800 kr per natt <br/>
             En hytte med 3 sengeplasser - 1000 kr per natt <br/>
             Tre hytter med 4 sengeplasser - 1500 kr per natt <br/>
