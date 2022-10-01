@@ -1,4 +1,5 @@
 import React from 'react';
+import gudrunogsimon2 from './assets/images/gudrunogsimon2.jpg';
 
 const Program = () => {
   return (
@@ -47,6 +48,11 @@ const Program = () => {
                 </p>
         </div>
       </div>
+      <img
+          className="gudrunogsimon2"
+          src={gudrunogsimon2}
+          alt="Gudrun og Simon"
+        /> 
     </div>    
   );
 };
