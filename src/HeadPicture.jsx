@@ -11,7 +11,7 @@ const HeadPicture = () => {
             5. august 2023
         </h2>
         <h2>
-            Norbotn Kirke - Fjellværøya
+            Nordbotn Kirke - Fjellværøya
         </h2>
       </div>
     </div>
