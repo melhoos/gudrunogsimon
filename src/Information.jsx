@@ -33,7 +33,10 @@ const Information = () => {
             Gaver
           </h2>
           <p>
-            Vi setter stor pris på at dere vil bli med oss ut i havgapet for feiring. Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på ønskelisten vår her.
+            Vi setter stor pris på at dere vil bli med oss ut i havgapet for feiring. 
+          </p>
+          <p>
+            Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på ønskelisten vår her.
           </p>
         </div>
         <div>
