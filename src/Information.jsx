@@ -20,7 +20,8 @@ const Information = () => {
           </h2>
           <p>
             Vi krysser fingrene for sommer og sol!
-            <br/>
+           </p>
+          <p>
             Fredag: Casual pent
             <br/>
             Lørdag: Dress/sommerlig pent
