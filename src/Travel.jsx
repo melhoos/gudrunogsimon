@@ -75,15 +75,21 @@ const Travel = () => {
            <p>
               Gudrun og Simon bor på Hjorten Hotell. 
           </p>
-          <h2>Hjorten Hotell i Fillan</h2>
+          <h3>Hjorten Hotell i Fillan</h3>
           <p>
-             hjortenhotell.no
+             <a
+              href="https://www.hjortenhotell.no"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            hjortenhotell.no
+            </a>
             </p>
            <p>
             Enkel- /dobbeltrom 1395/1595 kr per natt. <br/>
             For de som ønsker å booke hotellrom gjøres det ved å sende epost til post@hjortenhotell.no. Merk bestillingen med “Bryllup Gudrun og Simon Fjeldvær”. Det er mulig å sette inn en ekstraseng på alle rom. 
           </p>
-           <h2>Knarren Brygge i Knarrlagsundet</h2>
+           <h3>Knarren Brygge i Knarrlagsundet</h3>
           <p>
              knarren.no
            </p>
@@ -91,7 +97,7 @@ const Travel = () => {
             2-/3-/4-sengs rom:  790/890/1490 kr per natt <br/>
             Ta kontakt med Simon på simbrafje@gmail.com for informasjon hvis du ønsker å booke.
           </p>
-          <h2>Fjellvær Gjestegård på Fjellværøya</h2>
+          <h3>Fjellvær Gjestegård på Fjellværøya</h3>
           <p>
             fjellvar.no
           </p>
