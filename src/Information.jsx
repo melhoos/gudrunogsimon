@@ -53,6 +53,7 @@ const Information = () => {
             </br>
             Badetøy for de modige
             </p>
+</p>
           <p>
             Sjekk {' '}
             <a
