@@ -22,9 +22,9 @@ const Information = () => {
             Vi krysser fingrene for sommer og sol!
            </p>
           <p>
-            Fredag: Casual pent
+            Fredag - Casual pent
             <br/>
-            Lørdag: Dress/sommerlig pent
+            Lørdag - Dress/sommerlig pent
           </p>
         </div>
         <div>
