@@ -86,7 +86,7 @@ const Travel = () => {
             </a>
             </p>
            <p>
-            Enkel- /dobbeltrom 1395/1595 kr per natt. <br/>
+            Enkelt- /dobbeltrom 1395/1595 kr per natt. <br/>
             For de som ønsker å booke hotellrom gjøres det ved å sende epost til post@hjortenhotell.no. Merk bestillingen med “Bryllup Gudrun og Simon Fjeldvær”. Det er mulig å sette inn en ekstraseng på alle rom. 
           </p>
            <h3>Knarren Brygge i Knarrlagsundet</h3>
