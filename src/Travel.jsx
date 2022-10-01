@@ -47,7 +47,7 @@ const Travel = () => {
           <h3>
             Bil
           </h3>
-          <p> Kommer informasjon her</p>
+          <p> Hitra, Frøya og Fjellværøya er tilknyttet fastlandet med broer og tunnel. Hitratunnelen var ved ferdigstilling i 1994 verdens dypeste undersjøiske tunnel (fakta). </p>
         </span>
         {/* <img
           className="gudrunogsimon2"
