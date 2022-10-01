@@ -44,7 +44,7 @@ const Program = () => {
             .
           </p>
           <p>
-                Etter turen blir det kaffe og kaker hos Bjørg og Bikko.
+                Etter turen blir det kaffe og kaker hos Bjørg og Bikko
                 </p>
         </div>
       </div>
