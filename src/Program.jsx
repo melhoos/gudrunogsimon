@@ -32,7 +32,7 @@ const Program = () => {
             Søndag - Knarrlagsundet
           </h2>
           <p>
-            Formiddag - Vi samles i Knarrlagsundet hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
+            Formiddag - Vi samles hos Bjørg og Bikko før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
             <a
               href="https://ut.no/turforslag/118119/ulvystien-rundt-pa-ulvyafjellvrsya-pa-hitra"
               target="_blank"
