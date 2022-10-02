@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.612e2917.chunk.css",
-  "main.js": "/static/js/main.d066379a.chunk.js",
-  "main.js.map": "/static/js/main.d066379a.chunk.js.map",
+  "main.css": "/static/css/main.b5ee4656.chunk.css",
+  "main.js": "/static/js/main.6d966d46.chunk.js",
+  "main.js.map": "/static/js/main.6d966d46.chunk.js.map",
   "static/js/1.709d58a2.chunk.js": "/static/js/1.709d58a2.chunk.js",
   "static/js/1.709d58a2.chunk.js.map": "/static/js/1.709d58a2.chunk.js.map",
   "static/js/2.cf1e4ed0.chunk.js": "/static/js/2.cf1e4ed0.chunk.js",
@@ -12,8 +12,8 @@
   "static/media/gudrunogsimon.jpg": "/static/media/gudrunogsimon.a5f09a16.jpg",
   "static/media/Map_Hitra.png": "/static/media/Map_Hitra.861fee64.png",
   "static/media/App.css": "/static/media/FiraMono-Regular.aa00c5d9.ttf",
-  "static/css/main.612e2917.chunk.css.map": "/static/css/main.612e2917.chunk.css.map",
+  "static/css/main.b5ee4656.chunk.css.map": "/static/css/main.b5ee4656.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a2d75fdc6921d09aa5a6848cc6405cec.js": "/precache-manifest.a2d75fdc6921d09aa5a6848cc6405cec.js",
+  "precache-manifest.0bf3e666b642b5b6b36fd477cc913873.js": "/precache-manifest.0bf3e666b642b5b6b36fd477cc913873.js",
   "service-worker.js": "/service-worker.js"
 }
