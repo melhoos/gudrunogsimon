@@ -87,6 +87,11 @@ footer {
   border-bottom: 1px solid #444;
 }
 
+#Program .map-hitra {
+  border: 0;
+  width: 75vw;
+}
+
 #Menu {
   padding-bottom: 4vh;
   margin-top: 4vh;

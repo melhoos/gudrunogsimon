@@ -48,7 +48,7 @@ const Program = () => {
         </div>
       </div>
       <img
-          className="Map_Hitra"
+          className="map-hitra"
           src={Map_Hitra}
           alt="Map_Hitra"
         /> 
