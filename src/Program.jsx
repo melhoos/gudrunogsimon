@@ -25,7 +25,7 @@ const Program = () => {
           <p>
             Formiddag - Vielse i Nordbotn Kirke
             <br/>
-            Ettermiddag - Bryllupsfest på Strandheim
+            Ettermiddag - Bryllupsfest i Strandheim
           </p>
         </div>
         <div>
