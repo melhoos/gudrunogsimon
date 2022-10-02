@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.612e2917.chunk.css",
-  "main.js": "/static/js/main.6857144c.chunk.js",
-  "main.js.map": "/static/js/main.6857144c.chunk.js.map",
+  "main.js": "/static/js/main.1922e2a5.chunk.js",
+  "main.js.map": "/static/js/main.1922e2a5.chunk.js.map",
   "static/js/1.709d58a2.chunk.js": "/static/js/1.709d58a2.chunk.js",
   "static/js/1.709d58a2.chunk.js.map": "/static/js/1.709d58a2.chunk.js.map",
   "static/js/2.cf1e4ed0.chunk.js": "/static/js/2.cf1e4ed0.chunk.js",
@@ -10,10 +10,10 @@
   "runtime~main.js.map": "/static/js/runtime~main.6ee34327.js.map",
   "static/media/heart.png": "/static/media/heart.2a11a956.png",
   "static/media/gudrunogsimon.jpg": "/static/media/gudrunogsimon.a5f09a16.jpg",
-  "static/media/gudrunogsimon2.jpg": "/static/media/gudrunogsimon2.3bf09aa4.jpg",
+  "static/media/Map_Hitra.png": "/static/media/Map_Hitra.861fee64.png",
   "static/media/App.css": "/static/media/FiraMono-Regular.aa00c5d9.ttf",
   "static/css/main.612e2917.chunk.css.map": "/static/css/main.612e2917.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.6602987a7794781f7a4a97c07393dc73.js": "/precache-manifest.6602987a7794781f7a4a97c07393dc73.js",
+  "precache-manifest.8c94fe38c968d84e4fd18055f1c4607b.js": "/precache-manifest.8c94fe38c968d84e4fd18055f1c4607b.js",
   "service-worker.js": "/service-worker.js"
 }

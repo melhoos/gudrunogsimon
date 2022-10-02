@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6857144c166079c3e92c",
+    "revision": "1922e2a5fe0ba9915828",
     "url": "/static/css/main.612e2917.chunk.css"
   },
   {
-    "revision": "6857144c166079c3e92c",
-    "url": "/static/js/main.6857144c.chunk.js"
+    "revision": "1922e2a5fe0ba9915828",
+    "url": "/static/js/main.1922e2a5.chunk.js"
   },
   {
     "revision": "709d58a229027795f766",
@@ -28,15 +28,15 @@ self.__precacheManifest = [
     "url": "/static/media/gudrunogsimon.a5f09a16.jpg"
   },
   {
-    "revision": "3bf09aa4a60836db83cd1e3ec0c820dc",
-    "url": "/static/media/gudrunogsimon2.3bf09aa4.jpg"
+    "revision": "861fee646cd6da6e310d30cd06e76b00",
+    "url": "/static/media/Map_Hitra.861fee64.png"
   },
   {
     "revision": "aa00c5d91c47e7b718b5cdca3dea7875",
     "url": "/static/media/FiraMono-Regular.aa00c5d9.ttf"
   },
   {
-    "revision": "6c1eb3fdd6e1654d8dbd18113b58ad98",
+    "revision": "5caf20be4df5559b25030a83ad92155c",
     "url": "/index.html"
   }
 ];
