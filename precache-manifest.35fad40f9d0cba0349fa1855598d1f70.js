@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e8c1473328c0aaf7ee7",
+    "revision": "6dd1c6b9819aa1ea05ae",
     "url": "/static/css/main.f4d0e2f8.chunk.css"
   },
   {
-    "revision": "4e8c1473328c0aaf7ee7",
-    "url": "/static/js/main.4e8c1473.chunk.js"
+    "revision": "6dd1c6b9819aa1ea05ae",
+    "url": "/static/js/main.6dd1c6b9.chunk.js"
   },
   {
     "revision": "709d58a229027795f766",
@@ -28,15 +28,15 @@ self.__precacheManifest = [
     "url": "/static/media/gudrunogsimon.a5f09a16.jpg"
   },
   {
-    "revision": "861fee646cd6da6e310d30cd06e76b00",
-    "url": "/static/media/Map_Hitra.861fee64.png"
+    "revision": "851eae12e5b511afb7a16d0e3730364a",
+    "url": "/static/media/Map_Hitra.851eae12.png"
   },
   {
     "revision": "aa00c5d91c47e7b718b5cdca3dea7875",
     "url": "/static/media/FiraMono-Regular.aa00c5d9.ttf"
   },
   {
-    "revision": "7a11e37ba5c3b909c4f55cdb92339bd1",
+    "revision": "5cca013982a3e04179681db049589279",
     "url": "/index.html"
   }
 ];
