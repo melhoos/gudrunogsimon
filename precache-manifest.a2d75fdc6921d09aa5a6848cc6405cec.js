@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1922e2a5fe0ba9915828",
+    "revision": "d066379aaf980f62b55a",
     "url": "/static/css/main.612e2917.chunk.css"
   },
   {
-    "revision": "1922e2a5fe0ba9915828",
-    "url": "/static/js/main.1922e2a5.chunk.js"
+    "revision": "d066379aaf980f62b55a",
+    "url": "/static/js/main.d066379a.chunk.js"
   },
   {
     "revision": "709d58a229027795f766",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/static/media/FiraMono-Regular.aa00c5d9.ttf"
   },
   {
-    "revision": "5caf20be4df5559b25030a83ad92155c",
+    "revision": "cf5f4d509e2692f3bea3b9c8fd55b30a",
     "url": "/index.html"
   }
 ];
