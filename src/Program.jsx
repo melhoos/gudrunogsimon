@@ -39,7 +39,7 @@ const Program = () => {
             </a>
           </p>
           <p>
-                Etter turen blir det kaffe og kaker der vi startet
+                Etter turen blir det kaffeslabberas der vi startet
                 </p>
         </div>
       </div>
