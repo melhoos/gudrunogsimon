@@ -42,7 +42,7 @@ const Lottie = (props) => {
 
   return (
     <div id={props.id + '-parent'}>
-      <div id={props.id} style={{ height: props.sizeInPx ? props.sizeInPx + 'px' : "30px" }} />
+      <div id={props.id} style={{ height: props.sizeInPx ? props.sizeInPx + 'px' : "30px", width: props.sizeInPx ? props.sizeInPx + 'px' : "30px" }} />
       <label onClick={smoothScrollTo}>{props.label}</label>
     </div>
   );
