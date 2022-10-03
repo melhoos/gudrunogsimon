@@ -13,9 +13,7 @@ const Program = () => {
             Fredag - Knarrlagsundet
           </h2>
           <p>
-            ca. 18 - Middag på Knarren Brygge
-          <br/>
-            ca. 20 - Vi trekker bort til Knarrlaget for bingo, lek og hygge
+            Det blir middag på Knarren Brygge i 18-tiden. Etter middagen trekker vi bort til Knarrlaget for bingo, lek og hygge
           </p>
         </div>
         <div>
@@ -23,9 +21,7 @@ const Program = () => {
             Lørdag - Fjellværøya
           </h2>
           <p>
-            Formiddag - Vielse i Nordbotn Kirke
-            <br/>
-            Ettermiddag - Bryllupsfest i Strandheim
+            Vielse i Nordbotn Kirke på formiddagen, og Bryllupsfest i Strandheim på ettermiddagen
           </p>
         </div>
         <div>
@@ -33,7 +29,7 @@ const Program = () => {
             Søndag - Knarrlagsundet
           </h2>
           <p>
-            Formiddag - Vi samles i Knarrlaget før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
+            Vi samles i Knarrlaget på formiddagen før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
             <a
               href="https://ut.no/turforslag/118119/ulvystien-rundt-pa-ulvyafjellvrsya-pa-hitra"
               target="_blank"
@@ -43,7 +39,7 @@ const Program = () => {
             </a>
           </p>
           <p>
-                Etter turen blir det kaffe og kaker der vi startet
+                Etter turen blir det kaffeslabberas der vi startet
                 </p>
         </div>
       </div>
