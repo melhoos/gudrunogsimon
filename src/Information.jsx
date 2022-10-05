@@ -36,7 +36,7 @@ const Information = () => {
             Vi setter stor pris på at dere vil bli med oss ut i havgapet for feiring. 
           </p>
           <p>
-            Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på ønskelisten vår her.
+            Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på bryllupslisten vår (link kommer).
           </p>
         </div>
         <div>
