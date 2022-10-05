@@ -21,7 +21,7 @@ const Travel = () => {
           <p>
             Det går hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon. Turen tar 2 til 2,5 time, avhengig av rute. Det er mulig å komme seg videre til Fjellværøya/Ulvøya med buss, men det lureste er å høre med noen med bil som kan plukke deg opp. Se {' '}
             <a
-              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR4=1&tplang=no&from=Trondheim%20Hurtigb%C3%A5tterminal%20(Trondheim)&to=Sandstad%20vegstasjon%20(Hitra)&Time=14%3A40&Date=03.10.2022&changepause=0&changepenalty=1"
+              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR4=1&tplang=no&from=Trondheim%20Hurtigb%C3%A5tterminal%20(Trondheim)&to=Sandstad%20vegstasjon%20(Hitra)&Time=14%3A40&Date=04.08.2023&changepause=0&changepenalty=1"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -35,7 +35,7 @@ const Travel = () => {
           <p>
             Ta buss 420 mot Frøya via Orkanger og Hitra fra Trondheim Sentralstasjon til Fillan Busstasjon. Turen tar drøye 2,5 time. Se {' '}
             <a
-              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR1=1&tplang=no&from=Trondheim%20Sentralstasjon%20(Trondheim)&to=Fillan%20busstasjon%20(Hitra)&Time=14%3A40&Date=03.10.2022&changepause=0&changepenalty=1"
+              href="https://www.atb.no/reiseplanlegger/?direction=1&adv=1&GetTR0=1&GetTR1=1&tplang=no&from=Trondheim%20Sentralstasjon%20(Trondheim)&to=Fillan%20busstasjon%20(Hitra)&Time=14%3A40&Date=04.08.2023&changepause=0&changepenalty=1"
               target="_blank"
               rel="noopener noreferrer"
             >
