@@ -33,18 +33,10 @@ const Program = () => {
             Søndag - Knarrlagsundet
           </h2>
           <p>
-            Vi samles i Knarrlaget på formiddagen før vi går søndagstur langs Ulvøystien. Mer om turen {' '}
-            <a
-              href="https://ut.no/turforslag/118119/ulvystien-rundt-pa-ulvyafjellvrsya-pa-hitra"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-            her
-            </a>
+            12:00	Kaffeslabberas i Knarrlaget
+            <br/>
+            13:30	Søndagstur til Selvåg/langs Ulvøystien
           </p>
-          <p>
-                Etter turen blir det kaffeslabberas der vi startet
-                </p>
         </div>
       </div>
       <img
