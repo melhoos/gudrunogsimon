@@ -35,7 +35,7 @@ const Program = () => {
           <p>
             12:00	Kaffeslabberas i Knarrlaget
             <br/>
-            13:30	Søndagstur til Selvåg/langs Ulvøystien
+            13:30	Søndagstur til Selvågan/langs Ulvøystien
           </p>
         </div>
       </div>
