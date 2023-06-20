@@ -78,7 +78,7 @@ const Information = () => {
             >
                 værmeldingen
             </a>
-            {' '} på forhånd. Forhåpentligvis trenger du også solbriller!
+            {' '} på forhånd. Forhåpentligvis trenger du også solkrem og solbriller!
         </p>
         </div>
       </div>
