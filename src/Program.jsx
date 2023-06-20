@@ -14,9 +14,9 @@ const Program = () => {
           </h2>
           <p>
             18:00	Middag på Knarren 
-            {'\n'}
+            <br/>
             20:00	Hygge og lek i Knarrlaget 
-            {'\n'}
+            <br/>
             00:00	Ro i Knarrlaget
           </p>
         </div>
