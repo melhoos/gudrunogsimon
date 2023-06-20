@@ -52,7 +52,7 @@ const Information = () => {
             >
                 her
             </a>
-            {' '}.
+            .
           </p>
         </div>
         <div>
