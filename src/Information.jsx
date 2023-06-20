@@ -36,7 +36,23 @@ const Information = () => {
             Vi setter stor pris på at dere vil bli med oss ut i havgapet for feiring. 
           </p>
           <p>
-            Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på bryllupslisten vår (link kommer).
+            Hvis dere i tillegg ønsker å gi oss en bryllupsgave kan dere se på bryllupslisten vår hos Tilbords {' '}
+            <a
+              href="https://www.tilbords.no/onskeliste/118485"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+                her
+            </a>
+            {' '} og en ønskeliste over ting som finnes andre steder {' '}
+            <a
+              href="https://docs.google.com/spreadsheets/d/1DXSJ2Eglk-CV56TlQ9_cgYeg9hXH27D7S7VipLsAEt0/edit#gid=0"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+                her
+            </a>
+            {' '}.
           </p>
         </div>
         <div>
