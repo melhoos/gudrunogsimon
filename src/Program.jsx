@@ -42,7 +42,7 @@ const Program = () => {
             <br/>
             02:00	Buss hjem
             <br/>
-            03:00	Buss hjem fra Strandheim
+            03:00	Buss hjem
           </p>
           <br/>
         </div>
