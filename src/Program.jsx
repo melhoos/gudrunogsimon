@@ -15,7 +15,7 @@ const Program = () => {
           <p>
             18:00	Middag på Knarren 
             <br/>
-            20:30	Lek og hygge i Knarrlaget 
+            20:00	Lek og hygge i Knarrlaget 
             <br/>
             00:00	Ro i Knarrlaget
           </p>
@@ -35,7 +35,7 @@ const Program = () => {
           <p>
             12:00	Kaffeslabberas i Knarrlaget
             <br/>
-            13:30	Søndagstur til Selvågan/langs Ulvøystien
+            13:30	Søndagstur til Krigshytta
           </p>
         </div>
       </div>
