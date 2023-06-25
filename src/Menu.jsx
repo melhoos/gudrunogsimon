@@ -17,28 +17,28 @@ function Menu() {
         linkTag={'Program'}
       />
       <Lottie
-        id="location-pin"
-        icon={location}
-        label={'Reise og overnatting'}
-        linkTag={'Travel'}
-      />
-      <Lottie
         id="document"
         icon={document}
         label={'Praktisk informasjon'}
         linkTag={'Information'}
       />
       <Lottie
-        id="svar"
-        icon={envelope}
-        label={'Svar her'}
-        linkTag={'Reply'}
-      />
-      <Lottie
         id="phone"
         icon={email}
         label={'Kontakt'}
         linkTag={'Contact'}
+      />
+      <Lottie
+        id="location-pin"
+        icon={location}
+        label={'Reise og overnatting'}
+        linkTag={'Travel'}
+      />
+      <Lottie
+        id="svar"
+        icon={envelope}
+        label={'Svar her'}
+        linkTag={'Reply'}
       />
       
     </div>
