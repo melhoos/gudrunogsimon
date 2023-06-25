@@ -21,11 +21,11 @@ function App() {
         <HeadPicture/>
         <Intro/>
         <Program/>
-        <Travel/>
         <Information/>
-        <Reply/>
         <Contact/>
+        <Travel/>
         <Map/>
+        <Reply/>
       </main>
       <Footer/>
     </div>
