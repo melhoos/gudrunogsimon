@@ -29,15 +29,13 @@ const Program = () => {
             <br/>
             15:15	Apertiff på Strandheim
             <br/>
-            16:00	Bilder med brudeparet og familie
+            16:00	Bilder med familie
             <br/>
             16:30	Bilde med hele brudefølget
             <br/>
             17:00	Middag
             <br/>
             22:00	Musikk, dans og fest
-            <br/>
-            00:30	Nattmat
             <br/>
             02:00	Buss hjem
             <br/>
