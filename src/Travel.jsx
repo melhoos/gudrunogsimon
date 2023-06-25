@@ -61,7 +61,7 @@ const Travel = () => {
           <br/>
             - Knarren Brygge - 10 min med bil til Fjellværøya.
           <br/>
-            - Fjellvær Gjestegård - 5/12 min med bil til kirken/Knarrlagsund.
+            FULLT: Fjellvær Gjestegård - 5/12 min med bil til kirken/Knarrlagsund.
            </p>
            <p>
               Gudrun og Simon bor på Hjorten Hotell. 
