@@ -44,7 +44,6 @@ const Program = () => {
             <br/>
             03:00	Buss hjem
           </p>
-          <br/>
         </div>
         <div>
           <h2>
