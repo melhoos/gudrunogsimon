@@ -52,7 +52,7 @@ const Information = () => {
             >
                 her
             </a>
-            .
+            . Vi oppfordrer alle til å kjøpe brukt - like fint og bedre for store og små. 
           </p>
         </div>
         <div>
