@@ -16,7 +16,7 @@ const Travel = () => {
             Man kommer seg til Hitra med bil, båt eller buss. Det enkleste er å kjøre bil (fyll gjerne opp bilen), men det er også mulig med kollektivtransport.
           </p>
           <h3>
-            Hurtigbåt/Direktebuss
+            Hurtigbåt/buss
           </h3>
           <p>
             Hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon.
