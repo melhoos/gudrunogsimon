@@ -20,7 +20,7 @@ const Program = () => {
             00:00	Ro i Knarrlaget
           </p>
           <p>
-            * Om du ønsker å drikke noe når vi trekker oss tilbake til Knarrlaget kl 20, ta tuen innom Knarrlaget før middagen på Knarren og legg fra deg drikken.
+            * Om du ønsker å drikke noe når vi trekker oss tilbake til Knarrlaget kl 20, ta turen innom Knarrlaget før middag og legg fra deg drikken der.
           </p>
         </div>
         <div>
