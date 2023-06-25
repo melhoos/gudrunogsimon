@@ -20,6 +20,7 @@ const Travel = () => {
           </h3>
           <p>
             Hurtigbåt fra Trondheim Hurtigbåtterminal til Sandstad på Hitra. Videre går det korresponderende buss (422 Dyrøy) til Fillan Busstasjon.
+          </p>
           <p>
             Direktebuss 420 fra Trondheim Sentralstasjon mot Frøya til Fillan Busstasjon.
           </p>
