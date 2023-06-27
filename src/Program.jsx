@@ -13,14 +13,14 @@ const Program = () => {
             Fredag - Knarrlagsundet
           </h2>
           <p>
-            18:00	Middag på Knarren
+            18:00	Middag på Knarren *
             <br/>
-            20:00	Lek og hygge i Knarrlaget*
+            20:00	Lek og hygge i Knarrlaget
             <br/>
             00:00	Ro i Knarrlaget
           </p>
           <p>
-            * Om du ønsker å drikke noe når vi trekker oss tilbake til Knarrlaget kl 20, ta turen innom Knarrlaget før middag og legg fra deg drikken der.
+            * Medbrakt drikke kan legges i Knarrlaget før middag på Knarren.
           </p>
         </div>
         <div>
