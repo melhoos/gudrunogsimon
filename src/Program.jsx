@@ -52,7 +52,7 @@ const Program = () => {
           <p>
             12:00	Kaffeslabberas i Knarrlaget
             <br/>
-            13:30	Søndagstur til Krigshytta
+            13:30	Søndagstur
           </p>
         </div>
       </div>
