@@ -32,9 +32,9 @@ const Program = () => {
             <br/>
             15:15	Apertiff på Strandheim
             <br/>
-            16:00	Bilder med familie
+            16:00	Bilder av familie
             <br/>
-            16:30	Bilde med hele brudefølget
+            16:30	Bilde av hele brudefølget
             <br/>
             17:00	Middag
             <br/>
