@@ -6,7 +6,7 @@ const Intro = () => {
         <p>
             Velkommen til hjemmesiden for bryllupet vårt!
             <br/>
-            Her finner du programmet og all informasjon om bryllupshelgen. 
+            Her finner du program og all informasjon om bryllupshelgen. 
         </p>
         <p> 
             - Gudrun & Simon -
