@@ -13,9 +13,9 @@ const Program = () => {
             Fredag - Knarrlagsundet
           </h2>
           <p>
-            18:00	Middag på Knarren *
+            18:00	Middag på Knarren
             <br/>
-            20:00	Lek og hygge i Knarrlaget
+            20:00	Lek og hygge i Knarrlaget*
             <br/>
             00:00	Ro i Knarrlaget
           </p>
@@ -52,7 +52,7 @@ const Program = () => {
           <p>
             12:00	Kaffeslabberas i Knarrlaget
             <br/>
-            Etterhvert blir det søndagstur
+            Søndagstur for de som vil etterhvert
           </p>
         </div>
       </div>
