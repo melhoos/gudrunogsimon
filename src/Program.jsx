@@ -20,7 +20,7 @@ const Program = () => {
             00:00	Ro i Knarrlaget
           </p>
           <p>
-            * Medbrakt drikke kan legges i Knarrlaget før middag på Knarren.
+            * Medbrakt drikke kan legges i Knarrlaget før middag på Knarren. Adresse: Ulvøyveien 35, 7242 Knarrlaget.
           </p>
         </div>
         <div>
