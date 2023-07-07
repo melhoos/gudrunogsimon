@@ -95,7 +95,7 @@ const Travel = () => {
             2-/3-/4-sengs rom:  790/890/1490 kr per natt <br/>
             Ta kontakt med Simon på simbrafje@gmail.com for informasjon hvis du ønsker å booke.
           </p>
-          <h3>FULLT - Fjellvær Gjestegård på Fjellværøya - FULLT</h3>
+          <h3>Fjellvær Gjestegård på Fjellværøya</h3>
           <p>
              <a
               href="https://www.fjellvar.no"
@@ -106,9 +106,9 @@ const Travel = () => {
             </a>
             </p>
            <p>
-            En hytte med 8 (12) sengeplasser  - 2800 kr per natt <br/>
-            Tre hytter med 4 sengeplasser - 1500 kr per natt <br/>
-            Mulighet for telt/bobil/campingvogn <br/>
+            FULLT - En hytte med 8 (12) sengeplasser  - 2800 kr per natt <br/>
+            FULLT - Tre hytter med 4 sengeplasser - 1500 kr per natt <br/>
+            Mulighet for telt/bobil/campingvogn. Telt koster 100 kr natten og bobil/campingvogn 250 kr (300 kr inkl. strøm) <br/>
             Ta kontakt med Simon på simbrafje@gmail.com for informasjon hvis du ønsker å booke.
           </p>
           <p>
