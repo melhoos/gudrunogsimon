@@ -20,6 +20,9 @@ const Reply = () => {
             >
             Svar her
             </a>
+      <p>
+      Link:https://drive.google.com/file/d/1wwqd2hgJf9uC3D0ASm5Pyvu2K56gdyk0/view?usp=drive_link
+      </p>
     </p>
     </div>
   );
