@@ -21,7 +21,13 @@ const Reply = () => {
             Svar her
             </a>
       <p>
-      Link:https://drive.google.com/file/d/1wwqd2hgJf9uC3D0ASm5Pyvu2K56gdyk0/view?usp=drive_link
+        <a
+              href="https://drive.google.com/file/d/1wwqd2hgJf9uC3D0ASm5Pyvu2K56gdyk0/view?usp=drive_linK"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            LINK
+            </a>
       </p>
     </p>
     </div>
