@@ -21,7 +21,7 @@ const Reply = () => {
             Svar her
             </a>
       </p>
-    </p>
+    
     </div>
   );
 };
