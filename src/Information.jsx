@@ -12,10 +12,7 @@ const Information = () => {
       <h1>
         Praktisk informasjon
       </h1>
-      <p>
-        Digitalt gjestehefte finner du etterhvert {' '}
-        <a href="TBA.pdf" target="_blank"> her</a>
-        </p>
+
       <div className="bullets">
         <div>
           <h2>
