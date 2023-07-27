@@ -13,7 +13,7 @@ const Information = () => {
         Praktisk informasjon
       </h1>
       
-        <a href="melhoos.github.io/gudrunogsimon/TBA.pdf" target="_blank">PDF test.</a>
+        <a href="TBA.pdf" target="_blank">TEKST PÅ LINK</a>
       
       <div className="bullets">
         <div>
