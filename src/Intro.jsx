@@ -8,6 +8,11 @@ const Intro = () => {
             <br/>
             Her finner du program og all informasjon om bryllupshelgen. 
         </p>
+            <p>
+        Digitalt gjestehefte finner du (etterhvert) {' '}
+        <a href="TBA.pdf" target="_blank"> her</a>
+              .
+        </p>
         <p> 
             - Gudrun & Simon -
         </p>
