@@ -12,9 +12,9 @@ const Information = () => {
       <h1>
         Praktisk informasjon
       </h1>
-      
+      {/*
         <a href="TBA.pdf" target="_blank">TEKST PÅ LINK</a>
-      
+      */}
       <div className="bullets">
         <div>
           <h2>
