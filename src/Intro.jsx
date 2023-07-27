@@ -9,7 +9,7 @@ const Intro = () => {
             Her finner du program og all informasjon om bryllupshelgen. 
         </p>
             <p>
-        Digitalt gjestehefte finner du (etterhvert) {' '}
+        Digitalt gjestehefte finner du (snart) {' '}
         <a href="TBA.pdf" target="_blank"> her</a>
               .
         </p>
