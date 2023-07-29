@@ -15,7 +15,7 @@ const Program = () => {
           <p>
             18:00	Middag på Knarren Brygge
             <br/>
-            20:00	Lek og hygge i Knarrlaget*
+            20:00	Lek og hygge i Knarrlaget - vi skal være ute!*
             <br/>
             00:00	Ro i Knarrlaget
           </p>
