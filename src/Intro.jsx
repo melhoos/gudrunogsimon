@@ -9,8 +9,8 @@ const Intro = () => {
             Her finner du program og all informasjon om bryllupshelgen. 
         </p>
             <p>
-        Digitalt gjestehefte finner du (snart) {' '}
-        <a href="TBA.pdf" target="_blank"> her</a>
+        Digitalt gjestehefte finner du her {' '}
+        <a href="Gjestehefte-compressed.pdf" target="_blank"> her</a>
               .
         </p>
         <p> 
